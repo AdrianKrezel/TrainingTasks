@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.adriankrezel.zadanie2","c":"Application","l":"Application()","u":"%3Cinit%3E()"},{"p":"com.adriankrezel.zadanie2","c":"Application","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

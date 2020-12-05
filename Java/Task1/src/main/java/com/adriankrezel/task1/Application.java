@@ -11,7 +11,7 @@ public class Application {
      * @param length - sequence length (for method scalability)
      * @return - sequence array (result extended to floating point values)
      */
-    static ArrayList<Float> sequence(Float[] tab, int length) {
+    private static ArrayList<Float> sequence(Float[] tab, int length) {
 
         //append input elements to the end of list
         ArrayList<Float> array = new ArrayList<>(Arrays.asList(tab));

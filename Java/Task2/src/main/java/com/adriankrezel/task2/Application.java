@@ -19,7 +19,7 @@ public class Application {
  * @param tab - input array
  * @return result - maximum squared value from array
  */
-    static int calculations(int[] tab) {
+    private static int calculations(int[] tab) {
         int result; //result of calculations
         
         //converts array to List interface element
